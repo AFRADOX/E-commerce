@@ -74,7 +74,7 @@ git clone https://github.com/AFRADOX/E-commerce.git
 Go into the project folder
 
 ```
-cd E-commerce
+cd Web-app
 ```
 
 Install backend dependencies
